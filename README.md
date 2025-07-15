@@ -16,16 +16,16 @@
 ## 🛠️ Tech Stack
 **Languages:** Python | C | Java | JavaScript  
 **Web Dev:** HTML | CSS | React (learning) | MySQL  
-**Tools & Platforms:** Git & GitHub | VSCode | IntelliJ IDEA | AWS  
+**Tools & Platforms:** Git & GitHub | VSCode | Godot | Unity | IntelliJ IDEA | PyCharm | AWS  
 
 ---
 
 ## 📂 Featured Projects
-📄 [**JavaFX Interactive Editor**](https://github.com/prathamshah2207/CMPT381-Assignment4)  
-GUI system with multi-select, grouping, and undo-redo functionality  
-
-🌐 [**Responsive Tattoo Shop Website**](https://github.com/prathamshah2207/tattoo-website)  
+🌐 [**Responsive Tattoo Shop Website**](https://github.com/prathamshah2207/The-Tattooer-website)  
 Interactive and responsive website using HTML, CSS, and JavaScript  
+
+📄 [**JavaFX Interactive Editor**](https://github.com/prathamshah2207/interactive-vector-drawing-app)  
+GUI system on vector graphics editor built with JavaFX based on MVC architecture
 
 🚗 [**Drive2Survive**](https://github.com/prathamshah2207/Drive-2-Survive)  
 2D survival game with car upgrades & procedural generation ([play on Itch.io](https://prash2207.itch.io/drive-2-survive))  
@@ -33,7 +33,7 @@ Interactive and responsive website using HTML, CSS, and JavaScript
 ---
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/prathamshah2207)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/pratham-shah-057274190/)  
 [![Itch.io](https://img.shields.io/badge/Itch.io-red?logo=itchdotio&style=for-the-badge)](https://prash2207.itch.io/)  
 
 ---
