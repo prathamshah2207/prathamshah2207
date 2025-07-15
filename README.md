@@ -33,8 +33,8 @@ GUI system on vector graphics editor built with JavaFX based on MVC architecture
 ---
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/pratham-shah-057274190/)  
-[![Itch.io](https://img.shields.io/badge/Itch.io-red?logo=itchdotio&style=for-the-badge)](https://prash2207.itch.io/)  
+[![LinkedIn]](https://www.linkedin.com/in/pratham-shah-057274190/)  
+[![Itch.io]](https://prash2207.itch.io/)  
 
 ---
 
