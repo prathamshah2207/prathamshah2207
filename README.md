@@ -22,7 +22,7 @@
 
 ## 📂 Featured Projects
 🌐 [**Responsive Tattoo Shop Website**](https://github.com/prathamshah2207/The-Tattooer-website)  
-Interactive and responsive website using HTML, CSS, and JavaScript  
+Interactive and responsive website using HTML, CSS, and JavaScript  ([site link](https://prathamshah2207.github.io/The-Tattooer-website/))
 
 📄 [**JavaFX Interactive Editor**](https://github.com/prathamshah2207/interactive-vector-drawing-app)  
 GUI system on vector graphics editor built with JavaFX based on MVC architecture
