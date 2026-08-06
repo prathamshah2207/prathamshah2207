@@ -37,5 +37,3 @@ GUI system on vector graphics editor built with JavaFX based on MVC architecture
 [![Itch.io](https://img.shields.io/badge/Itch.io-red?logo=itchdotio&style=for-the-badge)](https://prash2207.itch.io/) 
 
 ---
-
-⭐ *“Code, Learn, Secure – repeat.”*
